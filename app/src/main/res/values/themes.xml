@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Cryptocurrency" parent="android:Theme.Material.Light.DarkActionBar" />
+
+    <style name="Theme.Cryptocurrency.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Cryptocurrency.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Cryptocurrency.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
